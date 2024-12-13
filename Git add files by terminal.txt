@@ -1,0 +1,5 @@
+git init
+git add :/
+git commit -m "Second Commit" -a
+git remote add origin https://github.com/gmessinios/George_Messinios_Website.git
+git push origin master
